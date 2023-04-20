@@ -1,3 +1,14 @@
+#Major learnings in this Project
+1.debouncing
+2. create delete update in frontend
+3. use state and use effect effectively
+4. local storage use.
+5.destructuuring
+![Screenshot (79)](https://user-images.githubusercontent.com/124488153/233440168-d3a136b6-19d4-4a88-894a-fd271fb718f9.png)
+![Screenshot (80)](https://user-images.githubusercontent.com/124488153/233440177-b47023c0-bf08-402c-af80-3615dfb039ad.png)
+![Screenshot (81)](https://user-images.githubusercontent.com/124488153/233440196-18ed0d63-788e-4b28-8883-00338b1bc9ca.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
