@@ -1,3 +1,10 @@
+# Major learnings in this app 
+1. debouncing
+2. useState and Use effect
+3. create update delete in fronend
+4. localstorage .
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
